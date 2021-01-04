@@ -1,0 +1,30 @@
+{
+  "keywords": [
+    {
+      "keyword": "clutch",
+      "comments": ["Wow nice!", "Okay! 👀", "🔥", "That was crazy", "Damnnnn", "Nice", "Nice one man", "Good shit"]
+    },
+    {
+      "keyword": "ace",
+      "comments": ["Nice", "That was clean", "🔥", "👀", "Nice one dude", "Crazy", "Damnnn", "Nice one man"]
+    }
+  ],
+
+  "tags": ["valorant", "valorantgame", "valorantclips", "valorantgameplay", "valorantbeta"],
+
+  "pages": ["valorantonly", "valorantclipsdaily", "valorantsecrets", "playvalorantofficial", "valorant.ig"],
+
+  "rate": 15,
+
+  "followRate": 15,
+
+  "cooldown": 25,
+
+  "minlimit": 100,
+
+  "maxlimit": 350,
+
+  "minFollowLimit": 0,
+
+  "maxFollowLimit": 0
+}
