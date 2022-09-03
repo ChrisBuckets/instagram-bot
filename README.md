@@ -22,7 +22,7 @@ drift off to a short or longer amount.
 ```
   async delayActions(min, max, bias, influence) {
     var rnd = Math.random() * (max - min) + min, // random in range
-      mix = Math.random() * influence; // random mixer
+    let mix = Math.random() * influence; // random mixer
     let delay = (rnd * (1 - mix) + bias * mix) * 1000;
     console.log(`Waiting ${delay} seconds`);
     await this.page.waitFor(delay);
