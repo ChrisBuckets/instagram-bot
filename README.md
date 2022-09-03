@@ -3,7 +3,7 @@
 ## General Info
 Instagram Bot is a tool that was made to automate engagement within certain hashtags to generate followers to save people time. A common thing when looking up
 "How to get more Instagram followers", they always say follow, comment, and like similar content that you make. This is very tedious and can take up hours out of 
-your day, so I created a tool that did that for me.
+your day, so I created a tool that did those actions for me.
 
 Inside the config you can set the hashtags you want the bot to look at and it will navigate through them with a headless browser to like, follow and comment on random
 posts. In order to prevent being detected as a bot account, I made it so it used an array of random generic comments to use under each post so it would never spam
